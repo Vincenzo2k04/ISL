@@ -85,9 +85,3 @@ train_ds = tf.keras.utils.image_dataset_from_directory(
 - Deploy the model with a real-time webcam interface for gesture detection
 
 ---
-
-## 👨‍💻 Author
-
-**Tanishq Patil**  
-Third Year AIML Student  
-Manipal University Jaipur
